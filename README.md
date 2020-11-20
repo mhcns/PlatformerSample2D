@@ -1,7 +1,5 @@
 # PlatformerSample2D
-Um pequeno estágio de um jogo de plataforma 2D
-
-Um pequeno estágio de um jogo de plataforma 2D
+Assets de um pequeno estágio de um jogo de plataforma 2D
 
 Um novo inimigo criado: Alien. 
 Alien possui a habilidade de atirar um projétil no player.
